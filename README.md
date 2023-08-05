@@ -5,6 +5,10 @@
 
 Nyth AI merupakan chatbot generasi kedua yang saya ciptakan dengan memanfaatkan teknologi AI dari OpenAI. Nyth adalah sebuah bot berbasis Node.js yang berinteraksi dengan pengguna melalui WhatsApp Web. Bot ini menggunakan model bahasa GPT-3 dari OpenAI untuk memberikan respon yang relevan dan menarik selama percakapan. Tujuan utama dalam pembuatan bot ini adalah untuk menciptakan pengalaman belajar yang interaktif dan meningkatkan keterlibatan pengguna.
 
+## Pratinjau
+
+![nytai-demo](https://github.com/fromrha/NythAI-Whatsapp-Chatbot/assets/80160891/1be1c98e-2917-4619-bfc4-b1022d99226d)
+
 ## Penggunaan
 
 1. **Instalasi Dependensi**
