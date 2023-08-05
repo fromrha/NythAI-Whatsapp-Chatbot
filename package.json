@@ -1,0 +1,20 @@
+{
+  "name": "nythai",
+  "version": "1.0.0",
+  "description": "the next generation of nyth, using the gpt llm model to communicate with you",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "openai": "^3.3.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.21.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fromrha",
+  "license": "MIT",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
